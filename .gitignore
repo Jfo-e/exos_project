@@ -1,0 +1,7 @@
+# Ignore all .csv and .png files 
+*.csv
+*.png
+
+# Exclude specific files
+!baseline_model_results.csv
+!baseline_model_report.md
